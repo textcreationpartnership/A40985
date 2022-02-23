@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Father Whitebreads walking ghost which lately appear'd to a cabal of Jesuits in Drury-Lane.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40985</idno>
+            <idno type="STC">Wing F550</idno>
+            <idno type="STC">ESTC R29814</idno>
+            <idno type="EEBO-CITATION">11209404</idno>
+            <idno type="OCLC">ocm 11209404</idno>
+            <idno type="VID">46790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Father Whitebreads walking ghost which lately appear'd to a cabal of Jesuits in Drury-Lane.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitbread, Thomas, 1618-1679 --  Poetry.</term>
+               <term>Popish Plot, 1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:46790:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:46790:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>FATHER Whitebreads Walking GHOST Which lately appear'd to a CABAL OF JESUITS IN <hi>DR<g ref="char:V">Ʋ</g>RY-LANE.</hi>
+            </head>
+            <lg>
+               <l>BE quick, dull Souls, pray hard, new Altars raiſe,</l>
+               <l>Freſh Tapers light, 'till Night out-ſhine the Days;</l>
+               <l>Let Maſſes numberleſs performed be,</l>
+               <l>That I from Purgatory may be free:</l>
+               <lg>
+                  <l>What! do you ſtartle, you ungrateful Crew?</l>
+                  <l>Know you not him ſo late was one of you?</l>
+                  <l>What, in the Name o'th' Devil, do you do?</l>
+               </lg>
+               <l>Muſt I, who once your beſt Adviſer ſtood,</l>
+               <l>Whoſe Vote you never miſt for Fire and Blood;</l>
+               <l>
+                  <pb n="2" facs="tcp:46790:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 8 -->
+Muſt I, who did my ſelf your Martyr give,</l>
+               <l>Be tortur'd here, and Hereticks ſtill live?</l>
+               <l>Did you not tell me once theſe Burnings ſhou'd</l>
+               <l>Be quench'd with Floods of Hereticks freſh Blood?</l>
+               <lg>
+                  <l>And that thoſe Fires, I once adviſed to,</l>
+                  <l>Should leſſen thoſe were to be felt below?</l>
+                  <l>What hinders then, that theſe things are not ſo?</l>
+               </lg>
+               <l>I hope you're not at length Religious grown,</l>
+               <l>And ſo through fear your Mothers Cauſe diſown;</l>
+               <l>No, no, I know our Orders too far in</l>
+               <l>Ever to make a boggle at a ſin,</l>
+               <l>And ſo well practic'd, that they may defie</l>
+               <l>All the whole World beſide at Villany.</l>
+               <lg>
+                  <l>What is it then that makes our Project ſtay?</l>
+                  <l>While you as dull as my diſſerted Clay,</l>
+                  <l>Your inmiſchievous heads together lay:</l>
+               </lg>
+               <l>You can't want Stratagems while Hell's your <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Nor Money whenſoe're to <hi>Rome</hi> you ſend;</l>
+               <l>You can't want Preſidents of daring Sin,</l>
+               <l>Who alſo have of our own Order been.</l>
+               <l>Think on that matchleſs Aſſaſſin, whoſe name</l>
+               <l>We with juſt Pride and ſo much Envy claim.</l>
+               <lg>
+                  <l>He who at killing of an Emperor,</l>
+                  <l>To give his Poyſon ſtronger force and power,</l>
+                  <l>Mixt a God with it to make it work more ſure.</l>
+               </lg>
+               <l>Bleſt memory! which ſhall, the age to come,</l>
+               <l>Stand ſacred in the Liſt of Hell and <hi>Rome.</hi>
+               </l>
+               <l>Let our great <hi>Clement, Raviliac</hi>'s Name,</l>
+               <l>Your Spirits to like heights of ſin inflame:</l>
+               <l>Thoſe mighty Souls who each durſt bravely dye,</l>
+               <l>To have a Royal Ghoſt their Company;</l>
+               <l>Heroick Act, and worth their Tortures well,</l>
+               <l>Well worth the ſufferings of a double Hell;</l>
+               <l>And if theſe cannot move ye as they ſhould,</l>
+               <l>Let <hi>Garnet</hi>'s bold Example fire your blood</l>
+               <l>
+                  <pb n="3" facs="tcp:46790:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 8 -->
+Think what he durſt attempt, a glorious deed,</l>
+               <l>Which durſt the Fates have ſuffered to ſucceed,</l>
+               <l>Had Rival'd Hells moſt proud exploit and boaſt,</l>
+               <l>Even that which would the King of Fates depos'd</l>
+               <l>Who juſtly fear'd leſt he who ſtruck ſo high,</l>
+               <l>In guilt ſhould next blow up his Realm and Sky:</l>
+               <l>Or if you think theſe Patterns fetcht too far,</l>
+               <l>Let our ſucceſs with <hi>Godfrey</hi> be your Spur.</l>
+               <l>Are ye not Jeſuits? are you ſo for naught?</l>
+               <l>In all the Catholick Depths of Treaſon taught;</l>
+               <l>In Orthodox and ſolid poyſoning red,</l>
+               <l>And each profounder Art of Killing bred.</l>
+               <l>And can you fail and bungle in your Trade,</l>
+               <l>Shall one poor Life your Cowardiſe upbraid;</l>
+               <l>Lives yet that hated Enemy of our Cauſe,</l>
+               <l>Lives he our mighty Projects to oppoſe;</l>
+               <l>Were I now man, and the great Act to do,</l>
+               <l>He'ad dy'd by this, and been what I am now.</l>
+               <l>'Twere true ingenious malice could one do't,</l>
+               <l>To make men dye, and make them damn'd to boot:</l>
+               <l>Try then whatere your Art and Heart can do,</l>
+               <l>Out-fly old Preſidents and enter new,</l>
+               <lg>
+                  <l>Haſten and let your Deeds foreſtal intent,</l>
+                  <l>Foreſtal even Wiſhes ere they can take vent,</l>
+                  <l>Nor give the Fates the leiſure to prevent.</l>
+               </lg>
+               <l>Let the fired City to your Plot give light,</l>
+               <l>You raiz'd it half before, now raize it quite;</l>
+               <l>Do't more effectually, I'd ſee it glow</l>
+               <l>In Flames unquenchable as thoſe below.</l>
+               <l>I'd ſee the Miſcreants with the Houſes burn,</l>
+               <l>And both together into Aſhes turn.</l>
+               <l>What never <hi>Saxons</hi> Rage could here inflict,</l>
+               <l>Nor <hi>Danes</hi> more Savage, nor the barbarous <hi>Pict;</hi>
+               </l>
+               <l>What <hi>Spain</hi> nor 88 could ne're deviſe,</l>
+               <l>With all its Fleet and Freight of Cruelties;</l>
+               <l>
+                  <pb n="4" facs="tcp:46790:3"/>
+                  <!-- PDF PAGE 9 -->
+What Heavens Judgments, nor the angry Stars,</l>
+               <l>Forreign Invaſion, nor Domeſtick Wars,</l>
+               <l>Plague, Fire and Famine, could effect or do,</l>
+               <l>All this and more be dar'd and done by you.</l>
+            </lg>
+            <lg>
+               <l>If I may waſte a Prayer for your ſucceſs,</l>
+               <l>Hell be your aid, and your high Projects bleſs.</l>
+               <l>And may that Wretch if any here there be,</l>
+               <l>That meanly ſhrinks from brave iniquity,</l>
+               <l>If any dare feel pity or remorſe,</l>
+               <l>May he feel all I bid you act, or worſe.</l>
+            </lg>
+            <closer>
+               <salute>
+                  <hi>Doe Ill,</hi> Farewel.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46790:3"/>
+            <!-- PDF PAGE 9 -->
+         </div>
+      </body>
+   </text>
+</TEI>
